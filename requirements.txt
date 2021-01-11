@@ -1,0 +1,9 @@
+Django # latest - https://docs.djangoproject.com/en/3.1/
+celery==4.4.7  # https://docs.celeryproject.org/en/master/
+redis==3.5.3  # https://redis-py.readthedocs.io/en/stable/
+
+django-heroku
+gunicorn
+whitenoise==3.2
+selenium
+pandas

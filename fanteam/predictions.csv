@@ -1,0 +1,608 @@
+Name,Team,Role,Goal,Assist,Cs
+De Bruyne,Man City,Midfielder,0.44,0.56,0.46
+Fernandes,Man Utd,Midfielder,0.43,0.39,0.38
+Salah,Liverpool,Midfielder,0.00,0.00,0.00
+Rashford,Man Utd,Midfielder,0.46,0.25,0.38
+Sterling,Man City,Midfielder,0.41,0.28,0.39
+Mané,Liverpool,Midfielder,0.00,0.00,0.00
+Vardy,Leicester,Forward,0.00,0.00,0.00
+Martial,Man Utd,Forward,0.42,0.20,0.33
+Aubameyang,Arsenal,Midfielder,0.46,0.19,0.38
+Bamford,Leeds,Forward,0.00,0.00,0.00
+Dias,Man City,Defender,0.10,0.05,0.50
+Firmino,Liverpool,Forward,0.00,0.00,0.00
+Jesus,Man City,Forward,0.45,0.19,0.33
+Ederson,Man City,Goalkeeper,0.00,0.01,0.25
+de Gea,Man Utd,Goalkeeper,0.00,0.01,0.42
+Mahrez,Man City,Midfielder,0.28,0.30,0.26
+Cancelo,Man City,Defender,0.05,0.21,0.42
+Werner,Chelsea,Forward,0.00,0.00,0.00
+Ings,Southampton,Forward,0.00,0.00,0.00
+Robertson,Liverpool,Defender,0.00,0.00,0.00
+Antonio,West Ham,Forward,0.00,0.00,0.00
+Lacazette,Arsenal,Forward,0.42,0.20,0.35
+Mendy,Chelsea,Goalkeeper,0.00,0.00,0.00
+Maguire,Man Utd,Defender,0.08,0.05,0.42
+Son,Spurs,Midfielder,0.02,0.02,0.01
+Wan-Bissaka,Man Utd,Defender,0.03,0.11,0.42
+Thiago Silva,Chelsea,Defender,0.00,0.00,0.00
+Watkins,Aston Villa,Forward,0.03,0.01,0.00
+Walker,Man City,Defender,0.04,0.11,0.43
+Alexander-Arnold,Liverpool,Defender,0.00,0.00,0.00
+Zouma,Chelsea,Defender,0.00,0.00,0.00
+Pope,Burnley,Goalkeeper,0.00,0.00,0.11
+Grealish,Aston Villa,Midfielder,0.03,0.04,0.01
+Neto,Wolves,Midfielder,0.19,0.24,0.29
+Calvert-Lewin,Everton,Forward,0.28,0.09,0.25
+Chilwell,Chelsea,Defender,0.00,0.00,0.00
+Pulisic,Chelsea,Midfielder,0.00,0.00,0.00
+Zaha,Crystal Palace,Midfielder,0.19,0.12,0.13
+Alisson,Liverpool,Goalkeeper,0.00,0.00,0.00
+Maddison,Leicester,Midfielder,0.00,0.00,0.00
+Mount,Chelsea,Midfielder,0.00,0.00,0.00
+Gündogan,Man City,Midfielder,0.16,0.17,0.41
+Wood,Burnley,Forward,0.23,0.09,0.09
+Harrison,Leeds,Midfielder,0.00,0.00,0.00
+Wilson,Newcastle,Forward,0.31,0.13,0.26
+Patrício,Wolves,Goalkeeper,0.00,0.00,0.32
+Leno,Arsenal,Goalkeeper,0.00,0.01,0.41
+Barnes,Leicester,Midfielder,0.00,0.00,0.00
+Fabianski,West Ham,Goalkeeper,0.00,0.00,0.00
+Schmeichel,Leicester,Goalkeeper,0.00,0.00,0.00
+Stones,Man City,Defender,0.08,0.04,0.43
+Rodríguez,Everton,Midfielder,0.12,0.19,0.21
+Pickford,Everton,Goalkeeper,0.00,0.00,0.27
+Maupay,Brighton,Forward,0.19,0.07,0.04
+Areola,Fulham,Goalkeeper,0.00,0.00,0.00
+McCarthy,Southampton,Goalkeeper,0.00,0.00,0.00
+Meslier,Leeds,Goalkeeper,0.00,0.00,0.00
+Guaita,Crystal Palace,Goalkeeper,0.00,0.00,0.14
+Raphinha,Leeds,Midfielder,0.00,0.00,0.00
+Saka,Arsenal,Midfielder,0.17,0.25,0.31
+Johnstone,West Brom,Goalkeeper,0.00,0.00,0.00
+Lloris,Spurs,Goalkeeper,0.00,0.00,0.09
+Traoré,Aston Villa,Midfielder,0.07,0.07,0.04
+Benteke,Crystal Palace,Forward,0.20,0.10,0.11
+Ramsdale,Sheffield Utd,Goalkeeper,0.00,0.01,0.34
+Ziyech,Chelsea,Midfielder,0.00,0.00,0.00
+Trossard,Brighton,Midfielder,0.10,0.11,0.04
+Ward-Prowse,Southampton,Midfielder,0.00,0.00,0.00
+Cresswell,West Ham,Defender,0.00,0.00,0.00
+James,Chelsea,Defender,0.00,0.00,0.00
+Adams,Southampton,Forward,0.00,0.00,0.00
+Mitrović,Fulham,Forward,0.00,0.00,0.00
+Richarlison,Everton,Forward,0.17,0.13,0.23
+Traoré,Wolves,Midfielder,0.10,0.21,0.30
+Martínez,Aston Villa,Goalkeeper,0.00,0.00,0.02
+Shaw,Man Utd,Defender,0.02,0.16,0.26
+Townsend,Crystal Palace,Midfielder,0.07,0.16,0.12
+Rodrigo,Man City,Midfielder,0.08,0.11,0.49
+Lindelöf,Man Utd,Defender,0.04,0.03,0.32
+Klich,Leeds,Midfielder,0.00,0.00,0.00
+Bowen,West Ham,Midfielder,0.00,0.00,0.00
+Tierney,Arsenal,Defender,0.04,0.16,0.39
+Digne,Everton,Defender,0.03,0.16,0.26
+Pogba,Man Utd,Midfielder,0.10,0.15,0.28
+Soucek,West Ham,Midfielder,0.00,0.00,0.00
+Matip,Liverpool,Defender,0.00,0.00,0.00
+El Ghazi,Aston Villa,Midfielder,0.03,0.02,0.01
+McNeil,Burnley,Midfielder,0.04,0.10,0.07
+Lookman,Fulham,Midfielder,0.00,0.00,0.00
+Bellerín,Arsenal,Defender,0.05,0.14,0.38
+Ogbonna,West Ham,Defender,0.00,0.00,0.00
+Eze,Crystal Palace,Midfielder,0.08,0.12,0.12
+McTominay,Man Utd,Midfielder,0.09,0.08,0.34
+Barkley,Aston Villa,Midfielder,0.06,0.06,0.03
+Welbeck,Brighton,Forward,0.09,0.04,0.02
+Dier,Spurs,Defender,0.03,0.02,0.11
+Bertrand,Southampton,Defender,0.00,0.00,0.00
+Holding,Arsenal,Defender,0.07,0.04,0.39
+Agüero,Man City,Forward,0.35,0.13,0.18
+Tielemans,Leicester,Midfielder,0.00,0.00,0.00
+Sigurdsson,Everton,Midfielder,0.12,0.12,0.18
+Alderweireld,Spurs,Defender,0.02,0.03,0.11
+Sánchez,Brighton,Goalkeeper,0.00,0.00,0.03
+McGinn,Aston Villa,Midfielder,0.05,0.08,0.13
+Ndombele,Spurs,Midfielder,0.14,0.16,0.20
+Walker-Peters,Southampton,Defender,0.00,0.00,0.00
+Dallas,Leeds,Defender,0.00,0.00,0.00
+Fornals,West Ham,Midfielder,0.00,0.00,0.00
+McGoldrick,Sheffield Utd,Forward,0.28,0.12,0.26
+Walcott,Southampton,Midfielder,0.00,0.00,0.00
+Henderson,Liverpool,Midfielder,0.00,0.00,0.00
+Bernardo Silva,Man City,Midfielder,0.12,0.20,0.25
+Coufal,West Ham,Defender,0.00,0.00,0.00
+Semedo,Wolves,Defender,0.03,0.07,0.26
+Neves,Wolves,Midfielder,0.14,0.07,0.25
+March,Brighton,Midfielder,0.04,0.08,0.04
+Targett,Aston Villa,Defender,0.02,0.08,0.12
+Barnes,Burnley,Forward,0.17,0.07,0.07
+Rice,West Ham,Midfielder,0.00,0.00,0.00
+Greenwood,Man Utd,Midfielder,0.12,0.09,0.14
+Ayling,Leeds,Defender,0.00,0.00,0.00
+Mings,Aston Villa,Defender,0.05,0.03,0.12
+Armstrong,Southampton,Midfielder,0.00,0.00,0.00
+Gabriel,Arsenal,Defender,0.04,0.02,0.20
+Smith Rowe,Arsenal,Midfielder,0.16,0.16,0.28
+Pereira,Leicester,Defender,0.00,0.00,0.00
+Milivojevic,Crystal Palace,Midfielder,0.09,0.06,0.12
+Keane,Everton,Defender,0.04,0.02,0.22
+Coady,Wolves,Defender,0.01,0.01,0.30
+Cavani,Man Utd,Forward,0.19,0.08,0.11
+Dubravka,Newcastle,Goalkeeper,0.00,0.00,0.21
+Evans,Leicester,Defender,0.00,0.00,0.00
+Bednarek,Southampton,Defender,0.00,0.00,0.00
+Adarabioyo,Fulham,Defender,0.00,0.00,0.00
+Højbjerg,Spurs,Midfielder,0.05,0.07,0.19
+Dunk,Brighton,Defender,0.05,0.02,0.04
+Cooper,Leeds,Defender,0.00,0.00,0.00
+Douglas Luiz,Aston Villa,Midfielder,0.04,0.05,0.12
+Boly,Wolves,Defender,0.02,0.01,0.18
+Mina,Everton,Defender,0.05,0.03,0.23
+Cash,Aston Villa,Defender,0.02,0.07,0.12
+Westwood,Burnley,Midfielder,0.01,0.11,0.09
+Pereira,West Brom,Midfielder,0.00,0.00,0.00
+Mee,Burnley,Defender,0.04,0.03,0.11
+Tarkowski,Burnley,Defender,0.04,0.04,0.11
+Aké,Man City,Defender,0.03,0.02,0.09
+Dendoncker,Wolves,Midfielder,0.08,0.05,0.25
+Kanté,Chelsea,Midfielder,0.00,0.00,0.00
+Havertz,Chelsea,Midfielder,0.00,0.00,0.00
+Fabinho,Liverpool,Midfielder,0.00,0.00,0.00
+Doucouré,Everton,Midfielder,0.06,0.07,0.23
+Lowton,Burnley,Defender,0.01,0.05,0.11
+Moutinho,Wolves,Midfielder,0.03,0.11,0.24
+Diangana,West Brom,Midfielder,0.00,0.00,0.00
+Wijnaldum,Liverpool,Midfielder,0.00,0.00,0.00
+Foden,Man City,Midfielder,0.14,0.13,0.13
+Brownhill,Burnley,Midfielder,0.04,0.05,0.08
+Webster,Brighton,Defender,0.03,0.02,0.04
+Bale,Spurs,Midfielder,0.05,0.03,0.03
+Holgate,Everton,Defender,0.04,0.04,0.19
+Anguissa,Fulham,Midfielder,0.00,0.00,0.00
+Ndidi,Leicester,Midfielder,0.00,0.00,0.00
+Lanzini,West Ham,Midfielder,0.00,0.00,0.00
+Castagne,Leicester,Defender,0.00,0.00,0.00
+Saïss,Wolves,Defender,0.05,0.03,0.24
+Konsa,Aston Villa,Defender,0.04,0.02,0.10
+Egan,Sheffield Utd,Defender,0.06,0.03,0.35
+Kane,Spurs,Forward,0.02,0.01,0.00
+Callum Robinson,West Brom,Forward,0.00,0.00,0.00
+Robson-Kanu,West Brom,Forward,0.00,0.00,0.00
+Benrahma,West Ham,Midfielder,0.00,0.00,0.00
+Stevens,Sheffield Utd,Defender,0.03,0.07,0.25
+Cavaleiro,Fulham,Midfielder,0.00,0.00,0.00
+Taylor,Burnley,Defender,0.01,0.02,0.05
+Alioski,Leeds,Defender,0.00,0.00,0.00
+Kouyaté,Crystal Palace,Midfielder,0.04,0.02,0.13
+Hernández,Leeds,Midfielder,0.00,0.00,0.00
+Brady,Burnley,Midfielder,0.05,0.07,0.06
+Yarmolenko,West Ham,Midfielder,0.00,0.00,0.00
+McArthur,Crystal Palace,Midfielder,0.03,0.06,0.11
+Torres,Man City,Midfielder,0.02,0.01,0.01
+Baldock,Sheffield Utd,Defender,0.03,0.07,0.25
+Oriol Romeu,Southampton,Midfielder,0.00,0.00,0.00
+Robinson,Fulham,Defender,0.00,0.00,0.00
+Phillips,Leeds,Midfielder,0.00,0.00,0.00
+Willian,Arsenal,Midfielder,0.09,0.17,0.16
+Aina,Fulham,Defender,0.00,0.00,0.00
+Abraham,Chelsea,Forward,0.00,0.00,0.00
+Groß,Brighton,Midfielder,0.05,0.09,0.03
+Andersen,Fulham,Defender,0.00,0.00,0.00
+Cairney,Fulham,Midfielder,0.00,0.00,0.00
+McBurnie,Sheffield Utd,Forward,0.03,0.01,0.01
+Almirón,Newcastle,Midfielder,0.09,0.07,0.15
+Reguilón,Spurs,Defender,0.04,0.06,0.16
+Lallana,Brighton,Midfielder,0.02,0.04,0.02
+Ajayi,West Brom,Defender,0.00,0.00,0.00
+Decordova-Reid,Fulham,Forward,0.00,0.00,0.00
+Albrighton,Leicester,Midfielder,0.00,0.00,0.00
+Fofana,Leicester,Defender,0.00,0.00,0.00
+Joelinton,Newcastle,Forward,0.09,0.07,0.20
+Furlong,West Brom,Defender,0.00,0.00,0.00
+Ritchie,Newcastle,Midfielder,0.04,0.15,0.22
+Gallagher,West Brom,Midfielder,0.00,0.00,0.00
+Phillips,West Brom,Midfielder,0.00,0.00,0.00
+Xhaka,Arsenal,Midfielder,0.04,0.06,0.34
+Basham,Sheffield Utd,Defender,0.03,0.05,0.32
+Fred,Man Utd,Midfielder,0.04,0.07,0.20
+Redmond,Southampton,Midfielder,0.00,0.00,0.00
+Bergwijn,Spurs,Midfielder,0.12,0.11,0.13
+Vestergaard,Southampton,Defender,0.00,0.00,0.00
+Lundstram,Sheffield Utd,Midfielder,0.09,0.10,0.20
+Clark,Newcastle,Defender,0.05,0.03,0.22
+Vitinha,Wolves,Midfielder,0.06,0.06,0.15
+Fleck,Sheffield Utd,Midfielder,0.05,0.10,0.21
+Ampadu,Sheffield Utd,Defender,0.03,0.07,0.29
+Justin,Leicester,Defender,0.00,0.00,0.00
+Sissoko,Spurs,Midfielder,0.04,0.06,0.22
+Söyüncü,Leicester,Defender,0.00,0.00,0.00
+Bissouma,Brighton,Midfielder,0.00,0.00,0.00
+Rodriguez,Burnley,Forward,0.04,0.02,0.02
+Lascelles,Newcastle,Defender,0.03,0.02,0.26
+Lucas Moura,Spurs,Midfielder,0.10,0.11,0.10
+Lamptey,Brighton,Defender,0.01,0.02,0.01
+Iwobi,Everton,Midfielder,0.04,0.08,0.10
+Sean Longstaff,Newcastle,Midfielder,0.05,0.05,0.17
+Hayden,Newcastle,Midfielder,0.04,0.05,0.20
+Ait Nouri,Wolves,Defender,0.05,0.08,0.25
+Cahill,Crystal Palace,Defender,0.01,0.01,0.03
+Tete,Fulham,Defender,0.00,0.00,0.00
+Cork,Burnley,Midfielder,0.02,0.02,0.06
+Sawyers,West Brom,Midfielder,0.00,0.00,0.00
+Milner,Liverpool,Midfielder,0.00,0.00,0.00
+Aurier,Spurs,Defender,0.02,0.07,0.15
+Fernández,Newcastle,Defender,0.02,0.03,0.24
+van Aanholt,Crystal Palace,Defender,0.03,0.05,0.08
+Osborn,Sheffield Utd,Midfielder,0.04,0.09,0.21
+Shelvey,Newcastle,Midfielder,0.04,0.08,0.14
+Rodrigo,Leeds,Forward,0.00,0.00,0.00
+Kovacic,Chelsea,Midfielder,0.00,0.00,0.00
+Norwood,Sheffield Utd,Midfielder,0.06,0.09,0.18
+Loftus-Cheek,Fulham,Midfielder,0.00,0.00,0.00
+Balbuena,West Ham,Defender,0.00,0.00,0.00
+Jorginho,Chelsea,Midfielder,0.00,0.00,0.00
+Yedlin,Newcastle,Defender,0.03,0.05,0.20
+Thiago,Liverpool,Midfielder,0.00,0.00,0.00
+White,Brighton,Defender,0.01,0.02,0.03
+Burn,Brighton,Defender,0.02,0.02,0.03
+Brewster,Sheffield Utd,Forward,0.13,0.09,0.18
+Townsend,West Brom,Defender,0.00,0.00,0.00
+Davies,Spurs,Defender,0.01,0.05,0.11
+Ward,Crystal Palace,Defender,0.01,0.02,0.08
+Fabio Silva,Wolves,Forward,0.10,0.04,0.07
+Azpilicueta,Chelsea,Defender,0.00,0.00,0.00
+Murphy,Newcastle,Midfielder,0.02,0.06,0.13
+Shackleton,Leeds,Midfielder,0.00,0.00,0.00
+Dawson,West Ham,Defender,0.00,0.00,0.00
+Livermore,West Brom,Midfielder,0.00,0.00,0.00
+Marçal,Wolves,Defender,0.00,0.00,0.01
+Lamela,Spurs,Midfielder,0.10,0.09,0.09
+Keita,Liverpool,Midfielder,0.00,0.00,0.00
+Matty Longstaff,Newcastle,Midfielder,0.02,0.03,0.13
+Jack Robinson,Sheffield Utd,Defender,0.02,0.01,0.13
+Reed,Fulham,Midfielder,0.00,0.00,0.00
+Coleman,Everton,Defender,0.01,0.03,0.11
+Marí,Arsenal,Defender,0.03,0.02,0.22
+Pérez,Leicester,Midfielder,0.00,0.00,0.00
+James,Man Utd,Midfielder,0.06,0.06,0.08
+Stephens,Southampton,Defender,0.00,0.00,0.00
+Noble,West Ham,Midfielder,0.00,0.00,0.00
+Ayew,Crystal Palace,Forward,0.05,0.03,0.02
+Pépé,Arsenal,Midfielder,0.08,0.09,0.09
+Giroud,Chelsea,Forward,0.00,0.00,0.00
+Tomkins,Crystal Palace,Defender,0.04,0.02,0.10
+Djenepo,Southampton,Midfielder,0.00,0.00,0.00
+Ceballos,Arsenal,Midfielder,0.02,0.09,0.15
+Lemina,Fulham,Midfielder,0.00,0.00,0.00
+Godfrey,Everton,Defender,0.02,0.01,0.11
+Partey,Arsenal,Midfielder,0.02,0.01,0.06
+Llorente,Leeds,Defender,0.00,0.00,0.00
+Otasowie,Wolves,Midfielder,0.02,0.03,0.09
+Veltman,Brighton,Defender,0.00,0.03,0.03
+Riedewald,Crystal Palace,Midfielder,0.02,0.02,0.04
+Struijk,Leeds,Defender,0.00,0.00,0.00
+Mitchell,Crystal Palace,Defender,0.01,0.02,0.07
+O'Shea,West Brom,Defender,0.00,0.00,0.00
+Jahanbakhsh,Brighton,Midfielder,0.04,0.04,0.01
+Hause,Aston Villa,Defender,0.02,0.01,0.03
+Elneny,Arsenal,Midfielder,0.03,0.03,0.19
+Fernandinho,Man City,Defender,0.02,0.01,0.09
+Winks,Spurs,Midfielder,0.02,0.03,0.11
+Burke,Sheffield Utd,Midfielder,0.10,0.06,0.11
+Darlow,Newcastle,Goalkeeper,0.00,0.00,0.18
+Doherty,Spurs,Defender,0.03,0.04,0.08
+Allan,Everton,Midfielder,0.00,0.00,0.00
+Gibbs-White,Wolves,Midfielder,0.04,0.05,0.06
+Jota,Liverpool,Midfielder,0.00,0.00,0.00
+Hudson-Odoi,Chelsea,Midfielder,0.00,0.00,0.00
+Mousset,Sheffield Utd,Forward,0.11,0.05,0.09
+Jones,Liverpool,Midfielder,0.00,0.00,0.00
+Davies,Everton,Midfielder,0.02,0.03,0.13
+Clyne,Crystal Palace,Defender,0.01,0.02,0.05
+Davis,Aston Villa,Forward,0.05,0.03,0.01
+Telles,Man Utd,Defender,0.01,0.03,0.05
+Martinelli,Arsenal,Midfielder,0.01,0.01,0.01
+Matic,Man Utd,Midfielder,0.01,0.02,0.08
+Nketiah,Arsenal,Forward,0.10,0.05,0.05
+van de Beek,Man Utd,Midfielder,0.04,0.04,0.05
+Ivanovic,West Brom,Defender,0.00,0.00,0.00
+André Gomes,Everton,Midfielder,0.01,0.03,0.10
+Krovinovic,West Brom,Midfielder,0.00,0.00,0.00
+Bernard,Everton,Midfielder,0.03,0.04,0.04
+Pieters,Burnley,Defender,0.02,0.04,0.07
+Kamara,Fulham,Midfielder,0.00,0.00,0.00
+Gudmundsson,Burnley,Midfielder,0.02,0.03,0.02
+Mendy,Leicester,Midfielder,0.00,0.00,0.00
+Ünder,Leicester,Midfielder,0.00,0.00,0.00
+Bartley,West Brom,Defender,0.00,0.00,0.00
+Costa,Leeds,Midfielder,0.00,0.00,0.00
+Praet,Leicester,Midfielder,0.00,0.00,0.00
+Diallo,Southampton,Midfielder,0.00,0.00,0.00
+Fredericks,West Ham,Defender,0.00,0.00,0.00
+Ramsey,Aston Villa,Midfielder,0.01,0.01,0.01
+Chamberlain,Liverpool,Midfielder,0.00,0.00,0.00
+Campana,Wolves,Forward,0.04,0.02,0.02
+Iheanacho,Leicester,Forward,0.00,0.00,0.00
+Lewis,Newcastle,Defender,0.00,0.01,0.04
+Fraser,Newcastle,Midfielder,0.01,0.02,0.02
+Bryan,Sheffield Utd,Defender,0.01,0.02,0.11
+Alli,Spurs,Midfielder,0.06,0.03,0.03
+Ryan,Brighton,Goalkeeper,0.00,0.00,0.01
+Willock,Arsenal,Midfielder,0.04,0.03,0.04
+Vydra,Burnley,Forward,0.03,0.02,0.01
+Phillips,Liverpool,Defender,0.00,0.00,0.00
+N'Lundulu,Southampton,Forward,0.00,0.00,0.00
+Bailly,Man Utd,Defender,0.00,0.00,0.00
+Mendy,Man City,Defender,0.01,0.02,0.05
+Carroll,Newcastle,Forward,0.04,0.02,0.02
+Pröpper,Brighton,Midfielder,0.01,0.01,0.01
+Benson,Burnley,Midfielder,0.01,0.01,0.01
+Garcia,Man City,Defender,0.00,0.00,0.00
+Roberts,Leeds,Midfielder,0.00,0.00,0.00
+David Luiz,Arsenal,Defender,0.02,0.02,0.09
+Schär,Newcastle,Defender,0.01,0.01,0.05
+Gordon,Everton,Midfielder,0.01,0.02,0.02
+Maitland-Niles,Arsenal,Defender,0.01,0.01,0.04
+Carlos Vinicius,Spurs,Forward,0.04,0.02,0.01
+Hendrick,Newcastle,Midfielder,0.02,0.02,0.04
+Gayle,Newcastle,Forward,0.03,0.01,0.01
+Bryan,Fulham,Defender,0.00,0.00,0.00
+Tosun,Everton,Forward,0.02,0.01,0.01
+Snodgrass,West Brom,Midfielder,0.00,0.00,0.00
+Steffen,Man City,Goalkeeper,0.00,0.00,0.26
+Batshuayi,Crystal Palace,Forward,0.01,0.01,0.00
+Origi,Liverpool,Forward,0.00,0.00,0.00
+Kilman,Wolves,Defender,0.01,0.01,0.05
+Gibbs,West Brom,Defender,0.00,0.00,0.00
+Mac Allister,Brighton,Midfielder,0.01,0.02,0.01
+Poveda-Ocampo,Leeds,Midfielder,0.00,0.00,0.00
+Dann,Crystal Palace,Defender,0.00,0.00,0.01
+Sánchez,Spurs,Defender,0.00,0.00,0.02
+Hourihane,Aston Villa,Midfielder,0.01,0.02,0.01
+Johnson,West Ham,Defender,0.00,0.00,0.00
+Knockaert,Fulham,Midfielder,0.00,0.00,0.00
+Long,Southampton,Forward,0.00,0.00,0.00
+El Mohamady,Aston Villa,Defender,0.00,0.01,0.01
+Rhys Williams,Liverpool,Defender,0.00,0.00,0.00
+Rüdiger,Chelsea,Defender,0.00,0.00,0.00
+Zohore,West Brom,Forward,0.00,0.00,0.00
+Sharp,Sheffield Utd,Forward,0.03,0.01,0.01
+Alzate,Brighton,Midfielder,0.01,0.01,0.01
+Gilmour,Chelsea,Midfielder,0.00,0.00,0.00
+Zeqiri,Brighton,Forward,0.02,0.01,0.00
+Mata,Man Utd,Midfielder,0.01,0.01,0.01
+Zinchenko,Man City,Defender,0.00,0.01,0.02
+Shaqiri,Liverpool,Midfielder,0.00,0.00,0.00
+Minamino,Liverpool,Midfielder,0.00,0.00,0.00
+Laporte,Man City,Defender,0.00,0.00,0.01
+Field,West Brom,Midfielder,0.00,0.00,0.00
+Stephens,Burnley,Midfielder,0.00,0.00,0.01
+Dummett,Newcastle,Defender,0.00,0.01,0.03
+Shabani,Wolves,Midfielder,0.01,0.01,0.01
+Hector,Fulham,Defender,0.00,0.00,0.00
+Tella,Southampton,Midfielder,0.00,0.00,0.00
+Christensen,Chelsea,Defender,0.00,0.00,0.00
+Lowe,Sheffield Utd,Defender,0.00,0.01,0.05
+Long,Burnley,Defender,0.00,0.00,0.01
+Randolph,West Ham,Goalkeeper,0.00,0.00,0.00
+McCarthy,Crystal Palace,Midfielder,0.00,0.00,0.00
+Forster,Southampton,Goalkeeper,0.00,0.00,0.00
+Bogle,Sheffield Utd,Defender,0.01,0.02,0.05
+Kebano,Fulham,Midfielder,0.00,0.00,0.00
+Kongolo,Fulham,Defender,0.00,0.00,0.00
+Choudhury,Leicester,Midfielder,0.00,0.00,0.00
+Bernardo,Brighton,Defender,0.00,0.00,0.00
+Amartey,Leicester,Defender,0.00,0.00,0.00
+Tuanzebe,Man Utd,Defender,0.00,0.00,0.00
+Nakamba,Aston Villa,Midfielder,0.00,0.00,0.00
+Tsimikas,Liverpool,Defender,0.00,0.00,0.00
+Emerson,Chelsea,Defender,0.00,0.00,0.00
+Gray,Leicester,Midfielder,0.00,0.00,0.00
+Diop,West Ham,Defender,0.00,0.00,0.00
+Ream,Fulham,Defender,0.00,0.00,0.00
+Neco Williams,Liverpool,Defender,0.00,0.00,0.00
+Nelson,Arsenal,Midfielder,0.01,0.01,0.01
+Bardsley,Burnley,Defender,0.00,0.00,0.00
+Salisu,Southampton,Defender,0.00,0.00,0.00
+Henderson,Man Utd,Goalkeeper,0.00,0.00,0.00
+Valery,Southampton,Defender,0.00,0.00,0.00
+Kenny,Everton,Defender,0.00,0.00,0.00
+Jagielka,Sheffield Utd,Defender,0.00,0.00,0.02
+Davis,Leeds,Defender,0.00,0.00,0.00
+Dunne,Burnley,Defender,0.00,0.00,0.00
+Rojo,Man Utd,Defender,0.00,0.00,0.00
+Meyer,Crystal Palace,Midfielder,0.00,0.00,0.00
+Rodon,Spurs,Defender,0.00,0.00,0.00
+Peltier,West Brom,Defender,0.00,0.00,0.00
+Engels,Aston Villa,Defender,0.00,0.00,0.00
+Harper,West Brom,Midfielder,0.00,0.00,0.00
+Odoi,Fulham,Defender,0.00,0.00,0.00
+Pierrick,Crystal Palace,Midfielder,0.00,0.00,0.00
+Taylor,Aston Villa,Defender,0.00,0.00,0.00
+Ward,Leicester,Goalkeeper,0.00,0.00,0.00
+Button,West Brom,Goalkeeper,0.00,0.00,0.00
+Olsen,Everton,Goalkeeper,0.00,0.00,0.00
+Hoever,Wolves,Defender,0.00,0.00,0.01
+Buur,Wolves,Defender,0.00,0.00,0.00
+Benkovic,Leicester,Defender,0.00,0.00,0.00
+Ramsay,Southampton,Defender,0.00,0.00,0.00
+Guilbert,Aston Villa,Defender,0.00,0.00,0.00
+Tanganga,Spurs,Defender,0.00,0.00,0.00
+Ruddy,Wolves,Goalkeeper,0.00,0.00,0.00
+Arrizabalaga,Chelsea,Goalkeeper,0.00,0.00,0.00
+Smallbone,Southampton,Midfielder,0.00,0.00,0.00
+Rúnarsson,Arsenal,Goalkeeper,0.00,0.00,0.00
+Heaton,Aston Villa,Goalkeeper,0.00,0.00,0.00
+Sims,Southampton,Midfielder,0.00,0.00,0.00
+Casilla,Leeds,Goalkeeper,0.00,0.00,0.00
+Kelleher,Liverpool,Goalkeeper,0.00,0.00,0.00
+Fuchs,Leicester,Defender,0.00,0.00,0.00
+Casey,Leeds,Defender,0.00,0.00,0.00
+Jenkins,Leeds,Midfielder,0.00,0.00,0.00
+Peacock-Farrell,Burnley,Goalkeeper,0.00,0.00,0.00
+Thomas,Leicester,Defender,0.00,0.00,0.00
+Caprile,Leeds,Goalkeeper,0.00,0.00,0.00
+Ighalo,Man Utd,Forward,0.00,0.00,0.00
+Gazzaniga,Spurs,Goalkeeper,0.00,0.00,0.00
+Rodák,Fulham,Goalkeeper,0.00,0.00,0.00
+Vokins,Southampton,Defender,0.00,0.00,0.00
+Butland,Crystal Palace,Goalkeeper,0.00,0.00,0.00
+Simms,Everton,Forward,0.00,0.00,0.00
+Cédric,Arsenal,Defender,0.00,0.00,0.00
+Alonso,Chelsea,Defender,0.00,0.00,0.00
+Chambers,Arsenal,Defender,0.00,0.00,0.00
+Verrips,Sheffield Utd,Goalkeeper,0.00,0.00,0.00
+Nkounkou,Everton,Defender,0.00,0.00,0.00
+Mustafi,Arsenal,Defender,0.00,0.00,0.00
+Lingard,Man Utd,Midfielder,0.00,0.00,0.00
+Martin,West Ham,Goalkeeper,0.00,0.00,0.00
+Hart,Spurs,Goalkeeper,0.00,0.00,0.00
+Tomori,Chelsea,Defender,0.00,0.00,0.00
+Doyle,Man City,Midfielder,0.00,0.00,0.00
+Krafth,Newcastle,Defender,0.00,0.00,0.00
+Manquillo,Newcastle,Defender,0.00,0.00,0.00
+Thomas,Burnley,Defender,0.00,0.00,0.00
+Henderson,Crystal Palace,Goalkeeper,0.00,0.00,0.00
+Fernandes,Spurs,Midfielder,0.00,0.00,0.00
+Thompson,Burnley,Forward,0.00,0.00,0.00
+Sakho,Crystal Palace,Defender,0.00,0.00,0.00
+Ziger,Chelsea,Goalkeeper,0.00,0.00,0.00
+Branthwaite,Everton,Defender,0.00,0.00,0.00
+Le Marchand,Fulham,Defender,0.00,0.00,0.00
+Driscoll-Glennon,Burnley,Defender,0.00,0.00,0.00
+Richardson,Burnley,Forward,0.00,0.00,0.00
+Anjorin,Chelsea,Midfielder,0.00,0.00,0.00
+Foderingham,Sheffield Utd,Goalkeeper,0.00,0.00,0.00
+Molumby,Brighton,Midfielder,0.00,0.00,0.00
+Anderson,Newcastle,Midfielder,0.00,0.00,0.00
+Kipre,West Brom,Defender,0.00,0.00,0.00
+Walton,Brighton,Goalkeeper,0.00,0.00,0.00
+Austin,West Brom,Forward,0.00,0.00,0.00
+Palmer,Man City,Midfielder,0.00,0.00,0.00
+Jones,Man Utd,Defender,0.00,0.00,0.00
+Adrián,Liverpool,Goalkeeper,0.00,0.00,0.00
+Stevens,Leeds,Midfielder,0.00,0.00,0.00
+Haller,West Ham,Forward,0.00,0.00,0.00
+Trafford,Man City,Goalkeeper,0.00,0.00,0.00
+Gomez,Liverpool,Defender,0.00,0.00,0.00
+Chong,Man Utd,Midfielder,0.00,0.00,0.00
+Macey,Arsenal,Goalkeeper,0.00,0.00,0.00
+Grant,Man Utd,Goalkeeper,0.00,0.00,0.00
+Duffy,Brighton,Defender,0.00,0.00,0.00
+Gibson,Burnley,Defender,0.00,0.00,0.00
+Delph,Everton,Midfielder,0.00,0.00,0.00
+Hegazi,West Brom,Defender,0.00,0.00,0.00
+Virgínia,Everton,Goalkeeper,0.00,0.00,0.00
+Kolasinac,Arsenal,Defender,0.00,0.00,0.00
+Fabri,Fulham,Goalkeeper,0.00,0.00,0.00
+Cain,Liverpool,Midfielder,0.00,0.00,0.00
+Bennett,Wolves,Defender,0.00,0.00,0.00
+Grosicki,West Brom,Midfielder,0.00,0.00,0.00
+van Dijk,Liverpool,Defender,0.00,0.00,0.00
+Montoya,Brighton,Defender,0.00,0.00,0.00
+Bonatini,Wolves,Forward,0.00,0.00,0.00
+Koch,Leeds,Defender,0.00,0.00,0.00
+Watts,Newcastle,Defender,0.00,0.00,0.00
+Inniss,Crystal Palace,Defender,0.00,0.00,0.00
+McDonald,Fulham,Midfielder,0.00,0.00,0.00
+Jordao,Wolves,Midfielder,0.00,0.00,0.00
+Sessegnon,Spurs,Defender,0.00,0.00,0.00
+Hennessey,Crystal Palace,Goalkeeper,0.00,0.00,0.00
+Skipp,Spurs,Midfielder,0.00,0.00,0.00
+Podence,Wolves,Midfielder,0.00,0.00,0.00
+Rose,Spurs,Defender,0.00,0.00,0.00
+Sokratis,Arsenal,Defender,0.00,0.00,0.00
+Schlupp,Crystal Palace,Midfielder,0.00,0.00,0.00
+Caballero,Chelsea,Goalkeeper,0.00,0.00,0.00
+Bernabé,Man City,Midfielder,0.00,0.00,0.00
+Ferguson,Crystal Palace,Defender,0.00,0.00,0.00
+Guendouzi,Arsenal,Midfielder,0.00,0.00,0.00
+Muto,Newcastle,Forward,0.00,0.00,0.00
+Sessegnon,Fulham,Defender,0.00,0.00,0.00
+Samatta,Aston Villa,Forward,0.00,0.00,0.00
+Miazek,Leeds,Goalkeeper,0.00,0.00,0.00
+Clarkson,Liverpool,Midfielder,0.00,0.00,0.00
+Trézéguet,Aston Villa,Midfielder,0.00,0.00,0.00
+Grot,Leeds,Midfielder,0.00,0.00,0.00
+Vassilev,Aston Villa,Forward,0.00,0.00,0.00
+Bree,Aston Villa,Defender,0.00,0.00,0.00
+Moore,Sheffield Utd,Goalkeeper,0.00,0.00,0.00
+Seri,Fulham,Midfielder,0.00,0.00,0.00
+Bettinelli,Fulham,Goalkeeper,0.00,0.00,0.00
+Silva,Leicester,Midfielder,0.00,0.00,0.00
+Norris,Burnley,Goalkeeper,0.00,0.00,0.00
+Jonny,Wolves,Defender,0.00,0.00,0.00
+Mengi,Man Utd,Defender,0.00,0.00,0.00
+Özil,Arsenal,Midfielder,0.00,0.00,0.00
+Ajeti,West Ham,Forward,0.00,0.00,0.00
+Wesley,Aston Villa,Forward,0.00,0.00,0.00
+Kean,Everton,Forward,0.00,0.00,0.00
+Romero,Man Utd,Goalkeeper,0.00,0.00,0.00
+Forshaw,Leeds,Midfielder,0.00,0.00,0.00
+Saint-Maximin,Newcastle,Midfielder,0.00,0.00,0.00
+Aarons,Newcastle,Midfielder,0.00,0.00,0.00
+Wickham,Crystal Palace,Forward,0.00,0.00,0.00
+Dalot,Man Utd,Defender,0.00,0.00,0.00
+Harry Wilson,Liverpool,Midfielder,0.00,0.00,0.00
+Nyland,Aston Villa,Goalkeeper,0.00,0.00,0.00
+Connolly,Brighton,Forward,0.00,0.00,0.00
+Goodridge,Burnley,Midfielder,0.00,0.00,0.00
+Onomah,Fulham,Midfielder,0.00,0.00,0.00
+Leko,West Brom,Midfielder,0.00,0.00,0.00
+Masuaku,West Ham,Defender,0.00,0.00,0.00
+Pereira,Man Utd,Midfielder,0.00,0.00,0.00
+Freeman,Sheffield Utd,Midfielder,0.00,0.00,0.00
+Elliott,Liverpool,Midfielder,0.00,0.00,0.00
+Roberto,West Ham,Goalkeeper,0.00,0.00,0.00
+Saliba,Arsenal,Defender,0.00,0.00,0.00
+Sarkic,Wolves,Goalkeeper,0.00,0.00,0.00
+Andone,Brighton,Forward,0.00,0.00,0.00
+Christie,Fulham,Defender,0.00,0.00,0.00
+Garner,Man Utd,Midfielder,0.00,0.00,0.00
+Lössl,Everton,Goalkeeper,0.00,0.00,0.00
+Williams,Man Utd,Defender,0.00,0.00,0.00
+Bogusz,Leeds,Midfielder,0.00,0.00,0.00
+Bravo,Man City,Goalkeeper,0.00,0.00,0.00
+Clarke,Brighton,Defender,0.00,0.00,0.00
+Edwards,West Brom,Midfielder,0.00,0.00,0.00
+Douglas,Leeds,Defender,0.00,0.00,0.00
+Langley,Newcastle,Goalkeeper,0.00,0.00,0.00
+Gunn,Southampton,Goalkeeper,0.00,0.00,0.00
+Woods,Crystal Palace,Defender,0.00,0.00,0.00
+Jiménez,Wolves,Forward,0.00,0.00,0.00
+Mawson,Fulham,Defender,0.00,0.00,0.00
+Johansen,Fulham,Midfielder,0.00,0.00,0.00
+Lansbury,Aston Villa,Midfielder,0.00,0.00,0.00
+Felipe Anderson,West Ham,Midfielder,0.00,0.00,0.00
+Obafemi,Southampton,Forward,0.00,0.00,0.00
+Foyth,Spurs,Defender,0.00,0.00,0.00
+Carter-Vickers,Spurs,Defender,0.00,0.00,0.00
+Delap,Man City,Forward,0.00,0.00,0.00
+Gillespie,Newcastle,Goalkeeper,0.00,0.00,0.00
+James,Leicester,Midfielder,0.00,0.00,0.00
+Slimani,Leicester,Forward,0.00,0.00,0.00
+Grant,West Brom,Forward,0.00,0.00,0.00
+O'Connell,Sheffield Utd,Defender,0.00,0.00,0.00
+Atsu,Newcastle,Midfielder,0.00,0.00,0.00
+Steele,Brighton,Goalkeeper,0.00,0.00,0.00
+Steer,Aston Villa,Goalkeeper,0.00,0.00,0.00
+Morgan,Leicester,Defender,0.00,0.00,0.00
+Berge,Sheffield Utd,Midfielder,0.00,0.00,0.00
+Fosu-Mensah,Man Utd,Defender,0.00,0.00,0.00
+Izquierdo,Brighton,Midfielder,0.00,0.00,0.00
+Hugill,West Ham,Forward,0.00,0.00,0.00
+Pellistri,Man Utd,Midfielder,0.00,0.00,0.00
+Gbamin,Everton,Midfielder,0.00,0.00,0.00
+Vinagre,Wolves,Defender,0.00,0.00,0.00
+Lo Celso,Spurs,Midfielder,0.00,0.00,0.00
+Mooy,Brighton,Midfielder,0.00,0.00,0.00
+Murray,Brighton,Forward,0.00,0.00,0.00
+Otamendi,Man City,Defender,0.00,0.00,0.00
+Kelly,Crystal Palace,Defender,0.00,0.00,0.00
+Smalling,Man Utd,Defender,0.00,0.00,0.00
+Boufal,Southampton,Midfielder,0.00,0.00,0.00
+Jota,Aston Villa,Midfielder,0.00,0.00,0.00
+Torreira,Arsenal,Midfielder,0.00,0.00,0.00
+Wilshere,West Ham,Midfielder,0.00,0.00,0.00
+Lejeune,Newcastle,Defender,0.00,0.00,0.00

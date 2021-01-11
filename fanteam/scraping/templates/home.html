@@ -1,0 +1,64 @@
+<form method="POST" enctype="multipart/form-data" class="form-horizontal"> 
+    {% csrf_token %}
+    <div class="form-group">
+        <label for="name" class="col-md-3 col-sm-3 col-xs-12 control-label">File: </label>
+        <div class="col-md-8">
+            <input type="file" name="csv_file" id="csv_file" required="True" class="form-control">
+        </div>                    
+    </div>
+    <div class="form-group">                    
+        <div class="col-md-3 col-sm-3 col-xs-12 col-md-offset-3" style="margin-bottom:10px;">
+             <button class="btn btn-primary"> <span class="glyphicon glyphicon-upload" style="margin-right:5px;"></span>Upload </button>
+        </div> 
+    </div>
+</form>
+
+
+<table border = "1" cellpadding = "5" cellspacing = "5">
+    <td>Name</td>
+    <td>Team</td>
+    <td>Role</td>
+    <td>Goals</td>
+    <td>Assists</td>
+    <td>Cs</td>
+
+    <td>npxg</td>
+    <td>g</td>
+    <td>bcc</td>
+    <td>xa</td>
+    <td>bc</td>
+
+    <td>60 min</td>
+    <td>90 min</td>
+    <td>Total goals</td>
+    <td>Total pen</td>
+    <td>Total passes</td>
+    <td>Yellow cards</td>
+    <td>Red cards</td>
+    {% for i in current_info %}
+    
+    <tr>
+        <td>{{ i.name }}</td>
+        <td>{{ i.team }}</td>
+        <td>{{ i.role }}</td>
+        <td>{{ i.goal }}</td>
+        <td>{{ i.assist }}</td>
+        <td>{{ i.cs }}</td>
+
+        <td>{{ i.npxg }}</td>
+        <td>{{ i.xg }}</td>
+        <td>{{ i.bcc }}</td>
+        <td>{{ i.xa }}</td>
+        <td>{{ i.bc }}</td>
+
+        <td>{{ i.sixty }}</td>
+        <td>{{ i.ninety }}</td>
+        <td>{{ i.total_goals }}</td>
+        <td>{{ i.total_pen }}</td>
+        <td>{{ i.total_pas }}</td>
+        <td>{{ i.total_yellow }}</td>
+        <td>{{ i.total_red }}</td>
+    </tr>
+
+    {% endfor %}
+</table>
